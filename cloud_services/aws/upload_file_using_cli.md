@@ -2,4 +2,4 @@
 
 1. Create s3 bucket (from aws management console)
 
-- Login to the `aws.amazon.com/console`
+- Login to the aws.amazon.com/console
