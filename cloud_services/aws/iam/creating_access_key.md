@@ -1,4 +1,4 @@
-# creating access key for iam user
+# creating access key & secret key for iam user
 
 ## using aws console
 Open the IAM console at https://console.aws.amazon.com/iam/ .
